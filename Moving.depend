@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519745600 source:c:\users\david\desktop\moving\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<sstream>
+	<conio.h>
+	<process.h>
+
